@@ -1,4 +1,4 @@
-# Projeto
+# Projeto Teams Manager
 
 - Aplicativo para gerenciamento de grupos para dispositivos Android e IOS
 
