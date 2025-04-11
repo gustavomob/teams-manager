@@ -6,7 +6,7 @@ import { useState } from 'react'
 import { FlatList } from 'react-native'
 
 export function Home() {
-  const [groups, setGroups] = useState<string[]>(['Turma de Pentests'])
+  const [groups, setGroups] = useState<string[]>(['Pentests Team', 'Turma do Mobile'])
   return (
     <Container>
       <Header />
